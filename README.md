@@ -2,7 +2,7 @@ takes a 3d model in stl and renders a quick isometric animation about two axes t
 
 just run, select .stl file and boom
 
-![demo](example output.gif)
+![demo](example%20output.gif)
 
 I was gonna make it so it takes any 3d model file but I ran out of claude, maybe I'll update it if anyone wants that
 
